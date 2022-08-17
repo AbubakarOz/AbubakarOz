@@ -1,7 +1,7 @@
 ### <h1 align="center" dir="auto" border-bottom="1px solid">Welcome! I'm Abubakar <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image></h1>
 ![](https://komarev.com/ghpvc/?username=Abubakar-Oz&color=blueviolet&style=flat-square)
 
-<h2 style="margin-left:2em;">I'm FrontEnd developer</h2>
+### <h2 dir="auto">I'm FrontEnd developer</h2> ###
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133"><img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133" data-canonical-src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13" style="max-width: 100%;"></a></p>
 
 <p>✨ Currently I’m looking for a job as a Front-end developer ✨</p>
@@ -9,7 +9,7 @@
 <p>📚 Also I’m currently studying NextJS and React Native</p>
 
 
-<h3 style="margin-left:2em; margin-top:1.5em;" dir="auto">🔑 My Stack:</h3>
+<h3 dir="auto">🔑 My Stack:</h3>
 
 <h4 dir="auto">💻 Front-end:</h4>
 
@@ -20,6 +20,7 @@
 <code><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667"><img width="40px" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" title="GIT" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"><img width="40px" src="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" title="GITHUB" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/faf0782d01ec9e993c2e258fa995f0fc9171a14969d2129bbf5a5816df7e7b62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667"><img width="40px" src="https://camo.githubusercontent.com/faf0782d01ec9e993c2e258fa995f0fc9171a14969d2129bbf5a5816df7e7b62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667" title="React" data-canonical-src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/faf0782d01ec9e993c2e258fa995f0fc9171a14969d2129bbf5a5816df7e7b62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667"><img width="40px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" title="bootstrap" data-canonical-src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" style="max-width: 100%;"</a></code>
 
 </p>
 
