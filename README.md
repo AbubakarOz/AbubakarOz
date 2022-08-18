@@ -29,6 +29,9 @@
 <code><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/faf0782d01ec9e993c2e258fa995f0fc9171a14969d2129bbf5a5816df7e7b62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667"><img width="40px" src="https://camo.githubusercontent.com/faf0782d01ec9e993c2e258fa995f0fc9171a14969d2129bbf5a5816df7e7b62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667" title="React" data-canonical-src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"><img width="40px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" title="bootstrap" data-canonical-src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_plain_logo_icon_146297.png"><img alt="Numpy" title="webpack" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_plain_logo_icon_146297.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://cdn.icon-icons.com/icons2/3392/PNG/512/nextjs_icon_213852.png
+"><img alt="Numpy" title="NextJS" width="40" src="https://cdn.icon-icons.com/icons2/3392/PNG/512/nextjs_icon_213852.png
+" style="max-width: 100%;"></a></code>
 </p>
 
 <h4 dir="auto">⚡ Back-end:</h4>
@@ -36,12 +39,13 @@
 <ul>
 <li>Node JS - Mongo DB</li>
 <li>Express - Mongoose - Cors</li>
+<li>Postman</li>
 </ul>
 
 <p>
 <code><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667"><img width="40px" src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667" title="NodeJS" data-canonical-src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1b938a8770774c11ebdf27c1c371d173a48c6f0504cc224a8a6b47d5a8a332ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d69636f6e2e737667"><img width="40px" src="https://camo.githubusercontent.com/1b938a8770774c11ebdf27c1c371d173a48c6f0504cc224a8a6b47d5a8a332ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d69636f6e2e737667" title="MongoDB" data-canonical-src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="max-width: 100%;"></a></code>
-<code><a href="https://postman.com" rel="nofollow"><img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"></a></code>
+<code><a href="https://postman.com" rel="nofollow"><img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" title="postman" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"></a></code>
 </p>
 
 <hr>
