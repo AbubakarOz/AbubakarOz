@@ -8,9 +8,14 @@
 <p>👨‍🎓 2nd year of study in the magistracy on the training profile "Software for computing systems and computer networks"</p>
 <p>📚 Also I’m currently studying NextJS and React Native</p>
 
+
+
+
 <hr>
 
 ### <br><h3 dir="auto">🔑 My Stack:</h3> ###
+
+<h4 dir="auto">💻 Front-end:</h4>
 
 <ul>
 <li>HTML5-CSS-JavaScript</li>
@@ -19,8 +24,6 @@
 <li>Webpack-Bootstrap-Material UI</li>
 <li>Git-GitHub</li>
 </ul>
-
-<h4 dir="auto">💻 Front-end:</h4>
 
 <p>
 <code><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/984b2a88651f862c502e3881c6fa5d27f077948241fe49684a0879cae28014e2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667"><img width="40px" src="https://camo.githubusercontent.com/984b2a88651f862c502e3881c6fa5d27f077948241fe49684a0879cae28014e2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" title="HTML5" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="max-width: 100%;"></a></code>
@@ -41,5 +44,6 @@
 <code><a href="https://postman.com" rel="nofollow"><img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"></a></code>
 </p>
 
+<hr>
 
 <h4 dir="auto"><a href="https://github.com/kmilasantos">📳 </a><a id="user-content-contate-me" class="anchor" aria-hidden="true" href="#contate-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contate-me:</h4>
