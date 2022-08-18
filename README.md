@@ -9,7 +9,7 @@
 <p>📚 Also I’m currently studying NextJS and React Native</p>
 
 
-<h3 dir="auto">🔑 My Stack:</h3>
+### <h3 dir="auto">🔑 My Stack:</h3> ###
 
 <h4 dir="auto">💻 Front-end:</h4>
 
