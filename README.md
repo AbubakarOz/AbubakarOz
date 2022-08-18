@@ -59,11 +59,10 @@
 
 <p>
 <a class="padding-right:16px" href="https://t.me/+79899348589"><img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="mail.ru" width="25" height="25" title="telegram" data-canonical-src="https://cdn.worldvectorlogo.com/logos/telegram.svg" style="max-width: 100%;"></a>  <a class="padding-right:16px" href="mailto:aozniev98@mail.ru"><img src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" alt="mail.ru" width="25" height="25" title="mail" data-canonical-src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" style="max-width: 100%;"></a>  <a href="https://discord.com/channels/@Abubakar#6941"><img src="https://cdn.worldvectorlogo.com/logos/discord.svg" alt="mail.ru" width="25" height="25" title="discord" data-canonical-src="https://cdn.worldvectorlogo.com/logos/discord.svg" style="max-width: 100%;"></a>
-<a href="https://wa.me/<+79899348589>"><img src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" alt="mail.ru" width="25" height="25" title="discord" data-canonical-src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" style="max-width: 100%;"></a>
+<a href="https://wa.me/<+79899348589>"><img src="https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg" alt="mail.ru" width="25" height="25" title="discord" data-canonical-src="https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg" style="max-width: 100%;"></a>
 </p>
 
 <br>
-
 
 <br>
 
