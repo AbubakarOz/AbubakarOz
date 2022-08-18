@@ -62,8 +62,13 @@
 <a href="https://wa.me/<+79899348589>"><img src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" alt="mail.ru" width="25" height="25" title="discord" data-canonical-src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" style="max-width: 100%;"></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abubakar-Oz&show_icons=true&theme=tokyonight)
 <br>
+
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abubakar-Oz&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakar-Oz&layout=compact&theme=tokyonight)
 
 
