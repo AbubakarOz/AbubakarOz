@@ -8,8 +8,17 @@
 <p>👨‍🎓 2nd year of study in the magistracy on the training profile "Software for computing systems and computer networks"</p>
 <p>📚 Also I’m currently studying NextJS and React Native</p>
 
+<hr>
 
 ### <br><h3 dir="auto">🔑 My Stack:</h3> ###
+
+<ul>
+<li>HTML5-CSS-JavaScript</li>
+<li>React-React Router</li>
+<li>Redux-Redux Thunk-Redux-toolkit</li>
+<li>Webpack-Bootstrap-Material UI</li>
+<li>Git-GitHub</li>
+</ul>
 
 <h4 dir="auto">💻 Front-end:</h4>
 
