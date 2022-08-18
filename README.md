@@ -63,6 +63,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abubakar-Oz&show_icons=true&theme=tokyonight)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakar-Oz=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakar-Oz&layout=compact&theme=tokyonight)
 
 
