@@ -10,6 +10,7 @@
 <p>📚 Also I’m currently studying NextJS and React Native</p>
 </span>
 
+<br>
 <hr>
 
 ### <br><h3 dir="auto">🔑 My Stack:</h3> ###
