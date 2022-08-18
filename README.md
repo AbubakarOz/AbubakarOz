@@ -61,7 +61,7 @@
 <a class="padding-right:16px" href="https://web.telegram.org/k/"><img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="mail.ru" width="25" height="25" title="telegram" data-canonical-src="https://cdn.worldvectorlogo.com/logos/telegram.svg" style="max-width: 100%;"></a>  <a class="padding-right:16px" href="mailto:aozniev98@mail.ru"><img src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" alt="mail.ru" width="25" height="25" title="mail" data-canonical-src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" style="max-width: 100%;"></a>  <a href="https://discord.com/channels/@me"><img src="https://cdn.worldvectorlogo.com/logos/discord.svg" alt="mail.ru" width="25" height="25" title="discord" data-canonical-src="https://cdn.worldvectorlogo.com/logos/discord.svg" style="max-width: 100%;"></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abubakar-Oz&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abubakar-Oz&show_icons=true&theme=onedark)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakar-Oz=compact)
 
