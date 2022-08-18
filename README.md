@@ -59,5 +59,6 @@
 
 <a href="t-do.ru/@aozniev98"><img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="mail.ru" width="25" height="25" title="mail" data-canonical-src="https://cdn.worldvectorlogo.com/logos/telegram.svg" style="max-width: 100%;"></a>
 <a href="mailto:aozniev98@mail.ru"><img src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" alt="mail.ru" width="25" height="25" title="mail" data-canonical-src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" style="max-width: 100%;"></a>
+<a href="619947821256409118"><img src="https://cdn.worldvectorlogo.com/logos/discord.svg" alt="mail.ru" width="25" height="25" title="mail" data-canonical-src="https://cdn.worldvectorlogo.com/logos/discord.svg" style="max-width: 100%;"></a>
 
 
