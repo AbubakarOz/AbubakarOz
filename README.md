@@ -2,13 +2,14 @@
 ![](https://komarev.com/ghpvc/?username=Abubakar-Oz&color=blueviolet&style=flat-square)
 
 ### <h2 dir="auto">I'm FrontEnd developer</h2> ###
-<span>
+
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133"><img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133" data-canonical-src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13" style="max-width: 100%;"></a></p>
 
 <p>✨ Currently I’m looking for a job as a Front-end developer ✨</p>
 <p>👨‍🎓 2nd year of study in the magistracy on the training profile "Software for computing systems and computer networks"</p>
 <p>📚 Also I’m currently studying NextJS and React Native</p>
-</span>
+
+<br>
 
 <hr>
 
@@ -48,7 +49,7 @@
 <code><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667"><img width="40px" src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667" title="NodeJS" data-canonical-src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1b938a8770774c11ebdf27c1c371d173a48c6f0504cc224a8a6b47d5a8a332ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d69636f6e2e737667"><img width="40px" src="https://camo.githubusercontent.com/1b938a8770774c11ebdf27c1c371d173a48c6f0504cc224a8a6b47d5a8a332ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d69636f6e2e737667" title="MongoDB" data-canonical-src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="max-width: 100%;"></a></code>
 <code><a href="https://postman.com" rel="nofollow"><img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" title="postman" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"></a></code>
-<code><a href="https://miro.medium.com/1*1_k_ZnP1dYSQMHuJm3l7CA.png" rel="nofollow"><img src="https://miro.medium.com/1*1_k_ZnP1dYSQMHuJm3l7CA.png" alt="postman" width="40" height="40" title="Mongoose" data-canonical-src="https://miro.medium.com/1*1_k_ZnP1dYSQMHuJm3l7CA.png" style="max-width: 100%;"></a></code>
+<code><a href="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg" alt="postman" width="40" height="40" title="Mongoose" data-canonical-src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg" style="max-width: 100%;"></a></code>
 </p>
 
 <hr>
