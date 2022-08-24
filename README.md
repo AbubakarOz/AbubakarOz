@@ -62,10 +62,7 @@
 <a href="https://wa.me/<+79899348589>"><img src="https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg" alt="whatsapp" width="25" height="25" title="whatsapp" data-canonical-src="https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg" style="max-width: 100%;"></a>
 </p>
 
-<br>
-
-<br>
-
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbubakarOz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
