@@ -67,9 +67,6 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbubakarOz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-<p dir="auto">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarOz&theme=tokyonight&layout=compact" style="max-width: 100%;" />
-</a>
-</p>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarOz&theme=tokyonight&layout=compact" />
 
