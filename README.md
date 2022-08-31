@@ -67,12 +67,6 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbubakarOz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarOz&layout=compact&langs_count=7&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarOz&layout=compact&theme=tokyonight)
 
-<div align="center" dir="auto">
-<a href="https://github.com/AbubakarOz">
-  <img height="160em" src="	https://camo.githubusercontent.com/c244552e6bd94d5…33d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=AbubakarOz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="max-width: 100%;">
-  <img height="160em" src="https://github.com/AbubakarOz" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarOz&layout=compact&langs_count=7&theme=tokyonight" style="max-width: 100%;">
-</a>
-</div>
 
