@@ -66,8 +66,8 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbubakarOz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakarOz&layout=compact&langs_count=7&theme=tokyonight)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbubakarOz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakarOz&layout=compact&langs_count=7&theme=tokyonight)
 
 <div align="center" dir="auto">
 <a href="https://github.com/AbubakarOz">
