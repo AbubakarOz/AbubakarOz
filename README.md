@@ -68,5 +68,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbubakarOz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-<img height="150em" src="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarOz&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
+<img height="150em" src="https://github.com/AbubakarOz" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarOz&layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
 
