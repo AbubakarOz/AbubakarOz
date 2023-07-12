@@ -1,4 +1,4 @@
-### <h1 align="center" dir="auto" border-bottom="1px solid">Welcome! I'm Abubakar <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image></h1>
+### <h1 dir="auto" border-bottom="1px solid">Welcome! I'm Abubakar <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image></h1>
 ![](https://komarev.com/ghpvc/?username=Abubakar-Oz&color=blueviolet&style=flat-square)
 
 ### <h2 dir="auto">I'm FrontEnd developer</h2> ###
