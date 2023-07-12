@@ -19,7 +19,7 @@
 Название проекта "IQA"
 
 Приложение для IT-соискателей. С песочницей, обсуждениями и рейтингом.
-
+Занимался разработкой продакшн SPA-приложения на React/TypeScript с использованием Redux Toolkit.
 GitHub репозиторий проекта:
 
 - [frontend](https://github.com/sarda10v/iqa-frontend)
