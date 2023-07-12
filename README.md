@@ -28,7 +28,7 @@ GitHub репозиторий проекта:
 - [backend](https://github.com/sarda10v/iqa-backend)
 
 ---
-### <br><h3 dir="auto">🔑 My Stack:</h3> ###
+### <h3 dir="auto">🔑 My Stack:</h3> ###
 
 <h4 dir="auto">💻 Front-end:</h4>
 
